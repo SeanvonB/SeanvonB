@@ -1,8 +1,12 @@
 # Hello, World!
 
-One day, I will be the Full**est** Stack Developer: a dev who will unite the technologies, from bare metal up to UI/UX, and bring balance to the Stack. But, in the meantime, I make fun JavaScript toys, explore machine learning with Python, and build custom PCs.
+Welcome to my GitHub!
 
-Hit me up if you want to solve a problem, talk shop, or just nerd about!
+I'm a grad student working toward my M.S. in Computational Linguistics at the University of Colorado Boulder. I'm excited about everything related to NLP, but my primary interests are speech recognition, machine translation, and live agents – technologies that I hope will create engaging new ways for people to learn languages and improve their spoken confidence.
+
+Below, you'll find several of my old personal projects, ranging from fun JaveScript toys to technical writing on NLP and computer vision. Please enjoy and let me know what you think! And, if you're interested in talking shop or seeing what I'm working on now, you can [connect with me on LinkedIn](https://www.linkedin.com/in/seanvonb/) as well.
+
+Thanks for stopping by!
 
 ```javascript
 import { SeanvonB as Me } from "https://www.linkedin.com/in/seanvonb";
@@ -12,11 +16,13 @@ class About extends Me {
 		super(...args);
 		this.name = "Sean von Bayern";
 		this.pronouns = ["he", "him"];
-		this.communities = ["LeetCode", "The Odin Project", "Udacity"];
-		this.education = ["The Evergreen State College"];
+		this.communities = ["CLASIC", "CS-GSA", "LeetCode", "The Odin Project", "Udacity"];
+		this.education = ["University of Colorado Boulder", "The Evergreen State College"];
 		this.employer = null;
-		this.hobbies = ["baking", "hiking", "tabletop roleplaying"];
-		this.location = "Greater Seattle Area";
+		this.experience = ["Teacher", "Academic Manager", "Software Developer"];
+		this.hobbies = ["baking", "gaming", "hiking", "tabletop roleplaying"];
+		this.home = "Seattle, Washington";
+		this.location = "Boulder, Colorado";
 	}
 }
 ```
@@ -25,9 +31,7 @@ class About extends Me {
 
 ### Current Project
 
-I've been working on a self-hosted deployment of [FoundryVTT](https://foundryvtt.com/) on a Linux VM from DigitalOcean. It started with a [tutorial by Ben Price](https://benprice.dev/posts/fvtt-docker-tutorial/) that uses Portainer for managing Docker and Traeffik for networking and encryption. The Foundry license stops me from pushing a public repo, but you can still view my custom landing page!
-
--   [DungeonBuds](https://play.dungeonbuds.com) - Personal D&D tabletop and campaign site
+I've been working on a self-hosted deployment of [FoundryVTT](https://foundryvtt.com/) on a Linux VM from DigitalOcean. It started with a [tutorial by Ben Price](https://benprice.dev/posts/fvtt-docker-tutorial/) that uses Portainer for managing Docker and Traeffik for networking and encryption. Unfortuntely, the Foundry license stops me from pushing a public repo, but my players sure have enjoyed it!
 
 ### AI & Machine Learning
 
@@ -40,7 +44,7 @@ These projects use cloud computing and datasets provided by Udacity; but, otherw
 -   [Facial Keypoint Detector](https://github.com/SeanvonB/facial-keypoint-detector) ([Demo](https://seanvonb.github.io/facial-keypoint-detector/)) - Find and map faces in images
 -   [Image Classifier](https://github.com/SeanvonB/image-classifier) ([Demo](seanvonb.github.io/image-classifier/)) - Classify the content of images
 
-### Front-End Development
+### Web Development
 
 These projects are >95% my own code with little to no scaffolding from whomever inspired the project. They all feature responsive layouts and should work about as well on mobile as they do on desktop. Give 'em a try!
 

@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 I'm a grad student working toward my M.S. in Computational Linguistics at the University of Colorado Boulder. I'm excited about everything related to NLP, but my primary interests are speech recognition, machine translation, and live agents – technologies that I hope will create engaging new ways for people to learn languages and improve their spoken confidence.
 
-Below, you'll find several of my old personal projects, ranging from fun JaveScript toys to technical writing on NLP and computer vision. Please enjoy and let me know what you think! And, if you're interested in talking shop or seeing what I'm working on now, you can [connect with me on LinkedIn](https://www.linkedin.com/in/seanvonb/) as well.
+Below, you'll find several of my old personal projects, ranging from fun JaveScript toys to technical writing on NLP and computer vision. Please enjoy and let me know what you think! And, if you're interested in talking shop or seeing what I'm working on now, you're welcome to [connect with me on LinkedIn](https://www.linkedin.com/in/seanvonb/) as well.
 
 Thanks for stopping by!
 

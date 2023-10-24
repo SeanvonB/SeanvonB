@@ -18,7 +18,7 @@ class About extends Me {
 		this.pronouns = ["he", "him"];
 		this.communities = ["CLASIC", "CS-GSA", "LeetCode", "The Odin Project", "Udacity"];
 		this.education = ["University of Colorado Boulder", "The Evergreen State College"];
-		this.employer = null;
+		this.employer = "iSAT";
 		this.experience = ["Teacher", "Academic Manager", "Software Developer"];
 		this.hobbies = ["baking", "gaming", "hiking", "tabletop roleplaying"];
 		this.home = "Seattle, Washington";

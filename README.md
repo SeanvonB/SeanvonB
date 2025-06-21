@@ -1,13 +1,5 @@
 # Hello, World!
 
-Welcome to my GitHub!
-
-I'm a grad student working toward my M.S. in Computational Linguistics at the University of Colorado Boulder. I'm excited about everything related to NLP, but my primary interests are speech recognition, machine translation, and live agents – technologies that I hope will create engaging new ways for people to learn languages and improve their spoken confidence.
-
-Below, you'll find several of my old personal projects, ranging from fun JaveScript toys to technical writing on NLP and computer vision. Please enjoy and let me know what you think! And, if you're interested in talking shop or seeing what I'm working on now, you're welcome to [connect with me on LinkedIn](https://www.linkedin.com/in/seanvonb/) as well.
-
-Thanks for stopping by!
-
 ```javascript
 import { SeanvonB as Me } from "https://www.linkedin.com/in/seanvonb";
 
@@ -29,13 +21,20 @@ class About extends Me {
 
 ## My Projects
 
-### Current Project
+### Recent Work
 
-I've been working on a self-hosted deployment of [FoundryVTT](https://foundryvtt.com/) on a Linux VM from DigitalOcean. It started with a [tutorial by Ben Price](https://benprice.dev/posts/fvtt-docker-tutorial/) that uses Portainer for managing Docker and Traeffik for networking and encryption. Unfortuntely, the Foundry license stops me from pushing a public repo, but my players sure have enjoyed it!
+-   [Text Generation Server](https://github.com/SeanvonB/tgi-server) - Server-based pipeline for text generation
+-   [Selective Coference Resolution](https://github.com/SeanvonB/entity-framing) - Coreference resolution for entity framing
+-   [Neurologic A*esque Decoding](https://github.com/SeanvonB/neurologic-astar) - Paper reproduction
+
+### Publications
+
+-	E. Margaret Perkoff, **Sean von Bayern**, Zekun Zhao, Jon Z. Cai, Emily Doherty, Kristin Elizabet Wright-Bettner, James Martin, and Martha Palmer. [Golden Retrievers: Fetching Expert Curriculum Knowl-edge to Enhance Pedagogical Agents]() – IN PREPARATION.
+-	Emily Doherty, E. Margaret Perkoff, **Sean von Bayern**, Rui Zhang, Indrani Dey, Michal Bodzia-nowski, Sadhana Puntambekar, and Leanne Hirshfield. [Piecing Together Teamwork: A Responsible Approach to an LLM-based Educational Jigsaw Agent](https://dl.acm.org/doi/10.1145/3706598.3713349) in *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*. April 2025.
+-	E. Margaret Perkoff, Angela Maria Ramirez, **Sean von Bayern**, Marilyn Walker, and James Martin. [“Keep up the good work!”: Using Constraints in Zero Shot Prompting to Generate Supportive Teacher Responses](https://aclanthology.org/2024.sigdial-1.11/) in *Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue*. September 2024.
+-	Alvin Po-Chun Chen, Ray Groshan, and **Sean von Bayern**. [Mothman at SemEval-2024 Task 9: An Iterative System for Chain-of-Thought Prompt Optimization](https://aclanthology.org/2024.semeval-1.263/) in *Proceedings of the 18th International Workshop on Semantic Evaluation*. June 2024.
 
 ### AI & Machine Learning
-
-These projects use cloud computing and datasets provided by Udacity; but, otherwise, the pipelines, building and training of models, and results analysis are all my own. Plus, every step is documented in the demo if you're curious about how they work!
 
 -   [Speech Recognizer](https://github.com/SeanvonB/speech-recognizer) ([Demo](https://seanvonb.github.io/speech-recognizer/)) - Transcribe spoken audio to text
 -   [Language Translator](https://github.com/SeanvonB/language-translator) ([Demo](https://seanvonb.github.io/language-translator/)) - Translate English text to French
@@ -45,8 +44,6 @@ These projects use cloud computing and datasets provided by Udacity; but, otherw
 -   [Image Classifier](https://github.com/SeanvonB/image-classifier) ([Demo](seanvonb.github.io/image-classifier/)) - Classify the content of images
 
 ### Web Development
-
-These projects are >95% my own code with little to no scaffolding from whomever inspired the project. They all feature responsive layouts and should work about as well on mobile as they do on desktop. Give 'em a try!
 
 -   [Todo List](https://github.com/SeanvonB/todo-list) ([Demo](https://seanvonb.github.io/todo-list/)) - Create sortable lists of todo items
 -   [Restaurant Reviewer](https://github.com/SeanvonB/restaurant-reviewer) ([Demo](https://seanvonb.github.io/restaurant-reviewer/)) - Find reviews for local restaurants
@@ -58,6 +55,88 @@ These projects are >95% my own code with little to no scaffolding from whomever 
 ## My Tools
 
 <table>
+	<tr>
+		<td align="center" width="120px">
+			<img
+				src="./images/devicons/python-original.svg"
+				alt="Python Logo"
+				height="40px"
+				width="40px"
+			/>
+			<br />
+			<sub><b>Python</b></sub>
+		</td>
+		<td align="center" width="120px">
+			<img
+				src="./images/devicons/numpy-original.svg"
+				alt="NumPy Logo"
+				height="40px"
+				width="40px"
+			/>
+			<br />
+			<sub><b>NumPY</b></sub>
+		</td>
+		<td align="center" width="120px">
+			<img
+				src="./images/devicons/pytorch-original.svg"
+				alt="PyTorch Logo"
+				height="40px"
+				width="40px"
+			/>
+			<br />
+			<sub><b>PyTorch</b></sub>
+		</td>
+		<td align="center" width="120px">
+			<img
+				src="./images/devicons/matlab-original.svg"
+				alt="MATLAB Logo"
+				height="40px"
+				width="40px"
+			/>
+			<br />
+			<sub><b>MATLAB</b></sub>
+		</td>
+		<td align="center" width="120px">
+			<img
+				src="./images/devicons/huggingface-original.svg"
+				alt="Hugging Face Logo"
+				height="40px"
+				width="40px"
+			/>
+			<br />
+			<sub><b>Hugging Face</b></sub>
+		</td>
+		<td align="center" width="120px">
+			<img
+				src="./images/devicons/git-original.svg"
+				alt="Git Logo"
+				height="40px"
+				width="40px"
+			/>
+			<br />
+			<sub><b>Git</b></sub>
+		</td>
+		<td align="center" width="120px">
+			<img
+				src="./images/devicons/gcp-original.svg"
+				alt="Google Cloud Logo"
+				height="40px"
+				width="40px"
+			/>
+			<br />
+			<sub><b>GCP</b></sub>
+		</td>
+		<td align="center" width="120px">
+			<img
+				src="./images/devicons/aws-original.svg"
+				alt="AWS Logo"
+				height="40px"
+				width="40px"
+			/>
+			<br />
+			<sub><b>AWS</b></sub>
+		</td>
+	</tr>
 	<tr>
 		<td align="center" width="120px">
 			<img
@@ -78,16 +157,6 @@ These projects are >95% my own code with little to no scaffolding from whomever 
 			/>
 			<br />
 			<sub><b>CSS</b></sub>
-		</td>
-		<td align="center" width="120px">
-			<img
-				src="./images/devicons/sass-original.svg"
-				alt="Sass Logo"
-				height="40px"
-				width="40px"
-			/>
-			<br />
-			<sub><b>Sass</b></sub>
 		</td>
 		<td align="center" width="120px">
 			<img
@@ -121,38 +190,6 @@ These projects are >95% my own code with little to no scaffolding from whomever 
 		</td>
 		<td align="center" width="120px">
 			<img
-				src="./images/devicons/webpack-original.svg"
-				alt="webpack Logo"
-				height="40px"
-				width="40px"
-			/>
-			<br />
-			<sub><b>webpack</b></sub>
-		</td>
-		<td align="center" width="120px">
-			<img
-				src="./images/devicons/jest-plain.svg"
-				alt="Jest Logo"
-				height="40px"
-				width="40px"
-			/>
-			<br />
-			<sub><b>Jest</b></sub>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="120px">
-			<img
-				src="./images/devicons/mongodb-original.svg"
-				alt="MongoDB Logo"
-				height="40px"
-				width="40px"
-			/>
-			<br />
-			<sub><b>MongoDB</b></sub>
-		</td>
-		<td align="center" width="120px">
-			<img
 				src="./images/devicons/nodejs-original.svg"
 				alt="Node.js Logo"
 				height="40px"
@@ -163,65 +200,23 @@ These projects are >95% my own code with little to no scaffolding from whomever 
 		</td>
 		<td align="center" width="120px">
 			<img
-				src="./images/devicons/firebase-plain.svg"
-				alt="Firebase Logo"
+				src="./images/devicons/kubernetes-original.svg"
+				alt="Kubernetes Logo"
 				height="40px"
 				width="40px"
 			/>
 			<br />
-			<sub><b>Firebase</b></sub>
+			<sub><b>Kubernetes</b></sub>
 		</td>
 		<td align="center" width="120px">
 			<img
-				src="./images/devicons/python-original.svg"
-				alt="Python Logo"
+				src="./images/devicons/docker-plain.svg"
+				alt="Docker Logo"
 				height="40px"
 				width="40px"
 			/>
 			<br />
-			<sub><b>Python</b></sub>
-		</td>
-		<td align="center" width="120px">
-			<img
-				src="./images/devicons/numpy-original.svg"
-				alt="NumPy Logo"
-				height="40px"
-				width="40px"
-			/>
-			<br />
-			<sub><b>NumPY</b></sub>
-		</td>
-		<td align="center" width="120px">
-			<img
-				src="./images/devicons/pytorch-original.svg"
-				alt="PyTorch Logo"
-				height="40px"
-				width="40px"
-			/>
-			<br />
-			<sub><b>PyTorch</b></sub>
-		</td>
-		<td align="center" width="120px">
-			<img
-				src="./images/devicons/ruby-plain.svg"
-				alt="Ruby Logo"
-				height="40px"
-				width="40px"
-			/>
-			<br />
-			<sub><b>Ruby</b></sub>
-		</td>
-		<td align="center" width="120px">
-			<img
-				src="./images/devicons/rails-plain.svg"
-				alt="Rails Logo"
-				height="40px"
-				width="40px"
-			/>
-			<br />
-			<sub><b>Rails</b></sub>
+			<sub><b>Docker</b></sub>
 		</td>
 	</tr>
 </table>
-
-\* Grayscale icons indicate current learning that isn't yet daily knowledge.

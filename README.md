@@ -7,14 +7,14 @@ class About extends Me {
 	constructor(...args) {
 		super(...args);
 		this.name = "Sean von Bayern";
-		this.pronouns = ["he", "him"];
-		this.communities = ["CLASIC", "CS-GSA", "LeetCode", "The Odin Project", "Udacity"];
-		this.education = ["University of Colorado Boulder", "The Evergreen State College"];
-		this.employer = "iSAT";
-		this.experience = ["Teacher", "Academic Manager", "Software Developer"];
-		this.hobbies = ["baking", "gaming", "hiking", "tabletop roleplaying"];
+		this.pronouns = [ "he", "him", "they", "them" ];
+		this.communities = [ "BoulderNLP", "CLASIC", "Queer in AI", "Udacity" ];
+		this.education = [ "University of Colorado Boulder", "Evergreen State College" ];
+		this.work = { assignment: "Meta", employer: "Tundra" };
+		this.experience = [ "Linguist", "Software Engineer", "Teacher", "Team Manager" ];
+		this.hobbies = [ "baking", "gaming", "hiking", "tabletop roleplaying" ];
 		this.home = "Seattle, Washington";
-		this.location = "Boulder, Colorado";
+		this.location = "Redmond, Washington";
 	}
 }
 ```

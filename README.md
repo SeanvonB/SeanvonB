@@ -23,15 +23,16 @@ class About extends Me {
 
 ### Recent Work
 
+-   [Model Confidence Meter](https://github.com/SeanvonB/anthropic-proto) - Claude.ai prototype with confidence self-assessment
 -   [Text Generation Server](https://github.com/SeanvonB/tgi-server) - Server-based pipeline for text generation
 -   [Selective Coference Resolution](https://github.com/SeanvonB/entity-framing) - Coreference resolution for entity framing
 -   [Neurologic A*esque Decoding](https://github.com/SeanvonB/neurologic-astar) - Paper reproduction
 
 ### Publications
 
--	E. Margaret Perkoff, **Sean von Bayern**, Zekun Zhao, Jon Z. Cai, Emily Doherty, Kristin Elizabet Wright-Bettner, James Martin, and Martha Palmer. [Golden Retrievers: Fetching Expert Curriculum Knowl-edge to Enhance Pedagogical Agents]() – IN PREPARATION.
--	Emily Doherty, E. Margaret Perkoff, **Sean von Bayern**, Rui Zhang, Indrani Dey, Michal Bodzia-nowski, Sadhana Puntambekar, and Leanne Hirshfield. [Piecing Together Teamwork: A Responsible Approach to an LLM-based Educational Jigsaw Agent](https://dl.acm.org/doi/10.1145/3706598.3713349) in *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*. April 2025.
--	E. Margaret Perkoff, Angela Maria Ramirez, **Sean von Bayern**, Marilyn Walker, and James Martin. [“Keep up the good work!”: Using Constraints in Zero Shot Prompting to Generate Supportive Teacher Responses](https://aclanthology.org/2024.sigdial-1.11/) in *Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue*. September 2024.
+-	E. Margaret Perkoff, **Sean von Bayern**, Zekun Zhao, Jon Z. Cai, Emily Doherty, Kristin Wright-Bettner, James H. Martin, and Martha Palmer. [Golden Retrievers: Fetching Expert Curriculum Knowl-edge to Enhance Pedagogical Agents]() – In Progress.
+-	Emily Doherty, E. Margaret Perkoff, **Sean von Bayern**, Rui Zhang, Indrani Dey, Michal Bodzianowski, Sadhana Puntambekar, and Leanne Hirshfield. [Piecing Together Teamwork: A Responsible Approach to an LLM-based Educational Jigsaw Agent](https://dl.acm.org/doi/10.1145/3706598.3713349) in *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*. April 2025.
+-	E. Margaret Perkoff, Angela Maria Ramirez, **Sean von Bayern**, Marilyn Walker, and James H. Martin. [“Keep up the good work!”: Using Constraints in Zero Shot Prompting to Generate Supportive Teacher Responses](https://aclanthology.org/2024.sigdial-1.11/) in *Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue*. September 2024.
 -	Alvin Po-Chun Chen, Ray Groshan, and **Sean von Bayern**. [Mothman at SemEval-2024 Task 9: An Iterative System for Chain-of-Thought Prompt Optimization](https://aclanthology.org/2024.semeval-1.263/) in *Proceedings of the 18th International Workshop on Semantic Evaluation*. June 2024.
 
 ### AI & Machine Learning
